@@ -5,31 +5,19 @@ Gosto de explorar diferentes áreas do desenvolvimento de software, aprender nov
 🚀 **Tecnologias e Ferramentas**
 **Linguagens**
 
-* JavaScript
-* TypeScript
-* Python
-* Java
-* HTML5
-* CSS3
+![Languages](https://skillicons.dev/icons?i=js,ts,py,java,html,css)
 
 **Desenvolvimento Web**
 
-* React
-* Next.js
-* Three.js
-* Vite
+![Web Development](https://skillicons.dev/icons?i=react,nextjs,threejs,vite)
 
 **Bancos de Dados e Backend**
 
-* PostgreSQL
-* Supabase
+![Database & Backend](https://skillicons.dev/icons?i=postgres,supabase)
 
 **Outras Tecnologias**
 
-* Git
-* GitHub
-* NumPy
-* mpi4py
+![Tools](https://skillicons.dev/icons?i=git,github)
 
 📌 **Projetos em Destaque**
 
