@@ -1,16 +1,50 @@
-## Hi there 👋
+Olá, eu sou o Rafael! 👋
+Sou Desenvolvedor Web e estudante de Ciência da Computação, interessado em desenvolvimento web, engenharia de software e na criação de aplicações práticas.
+Gosto de explorar diferentes áreas do desenvolvimento de software, aprender novas tecnologias e transformar ideias em projetos funcionais.
 
-<!--
-**Rafa-Alves-Dias/Rafa-Alves-Dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tecnologias e Ferramentas**
+**Linguagens**
 
-Here are some ideas to get you started:
+* JavaScript
+* TypeScript
+* Python
+* Java
+* HTML5
+* CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desenvolvimento Web**
+
+* React
+* Next.js
+* Three.js
+* Vite
+
+**Bancos de Dados e Backend**
+
+* PostgreSQL
+* Supabase
+
+**Outras Tecnologias**
+
+* Git
+* GitHub
+* NumPy
+* mpi4py
+
+📌 **Projetos em Destaque**
+
+* **Cert Manager IFET** — Aplicação web para envio, gerenciamento e validação de certificados de atividades complementares.
+* **Sistema Solar** — Simulação interativa do sistema solar em 3D construída com Three.js.
+* **Sinuca 3D** — Protótipo de sinuca 3D para navegador usando Three.js e Cannon.js.
+* **Multiplicação de Matrizes** — Experimentos de multiplicação de matrizes sequencial e paralela usando Python e MPI.
+* **Otimização por Colônia de Formigas** — Implementação em Java do algoritmo de Otimização por Colônia de Formigas aplicado ao Problema da Mochila.
+
+🎯 **Interesses**
+
+* Desenvolvimento Web
+* Engenharia de Software
+* Computação Gráfica
+* Algoritmos e Otimização
+* Computação Paralela e Distribuída
+
+Sempre aprendendo e construindo coisas novas.
